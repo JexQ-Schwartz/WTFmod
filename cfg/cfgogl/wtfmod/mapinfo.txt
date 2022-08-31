@@ -546,7 +546,7 @@
 		"start_dist"		"50.000000"
 		"start_extra_dist"	"0.000000"
 		"end_dist"			"50.000000"
-		"max_distance"		"640"
+		"max_distance"		"480"
 		"tank_ban_flow"
 		{
 			"1"
